@@ -1,7 +1,5 @@
 # flutter_qrcodescanner
 
-&#x27;A new Flutter project. Created by Slidy&#x27;
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
